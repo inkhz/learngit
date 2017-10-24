@@ -7,3 +7,4 @@ lihai a
 ni shi dayelihai
 hello world
 wo shi daye
+zhangmin is big panda
